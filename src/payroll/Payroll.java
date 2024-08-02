@@ -6,7 +6,8 @@ package payroll;
  * what would represent both the state and the behaviour of 
  * the PayRoll class.
  * Used as the starting code for ICE 5 in SYST 17796, 2018
- * @author: Liz Dancy 
+ * @author: Liz Dancy
+ *  @modified by: Arshdeep Singh
  */
 import java.util.Scanner;
 

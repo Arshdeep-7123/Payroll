@@ -8,6 +8,7 @@ package payroll;
  * Employees have a name, a number of hours
  * and an hourlyWage.
  * @author Liz Dancy, 2018
+ *  @modified by: Arshdeep Singh
  *
  */
 public class Employee 

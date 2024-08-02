@@ -8,6 +8,7 @@ package payroll;
 /**
  * A class that represents part-time employees
  * @author dancye
+ *  @modified by: Arshdeep Singh
  */
 public class PartTimeEmployee extends Employee
 {
